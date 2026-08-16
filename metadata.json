@@ -1,0 +1,7 @@
+{
+  "name": "Crypto/Forex Session & Killzone Map",
+  "description": "Interactive world map in Myfxbook style tracking BTC/crypto liquidity levels across global Forex sessions and ICT Killzones in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
